@@ -25,10 +25,7 @@ Retail Success leverages decades of retail experience alongside the latest techn
 
 Responsibilities include:
 * Rotating team lead for teams of 3 to 4 developers
-* Daily code contribution when not on lead rotation
- → DDL & DML
- → C# APIs
- → React development in a backup/review capacity
+* enhancement and improvement of Retail Success's microservice architecture based solutions
 * Short term research initiatives to determine feasibility of new technologies
 
 Skills: C# · .NET · T-SQL · TypeScript · React.js · JavaScript
@@ -39,12 +36,9 @@ Dabbled Skills: AWS (SNS, SQS, Lambda, S3, CloudWatch, Cognito, EventBridge, IAM
 
 SPINS data and analytics helps natural, organic, and specialty product brands to scale their distribution within the CPG retail space and as well as helping retailers understand and maintain their points of differentiation within that space.
 
-Responsibilities include modernizing the management and delivery of SPIN's proprietary data offerings:
+Responsibilities include:
 * Rotating team lead for teams of 3 to 4 developers
-* Daily code contribution when not on lead rotation
- → DDL & DML
- → Node APIs
- → React development
+* modernizing the management and delivery of SPIN's proprietary data offerings
 
 Skills: TypeScript · React.js · Node.js · JavaScript · Pair Programming · PostgreSQL · Apollo GraphQL · Neo4j
 
@@ -59,7 +53,7 @@ Responsibilities include:
 * Monitor the commerce system of iModules' SaaS offering, including its integration with over a dozen different payment processors
 * Participate in hiring and training of new developers into the XP methodology
 * Provide a Tier-3 level of support to our Application Support department of only two official levels
-* Web Developer responsibilities listed below
+* enhancement and improvement of iModules' Constituent Engagement Management platform
 
 Skills: C# · .NET · T-SQL · TypeScript · React.js · JavaScript · Pair Programming · PostgreSQL
 
@@ -67,8 +61,8 @@ Skills: C# · .NET · T-SQL · TypeScript · React.js · JavaScript · Pair Prog
 
 iModules provides technology solutions and services to help organizations achieve their missions and build meaningful relationships through member engagement and online communication.
 
-Responsibilities include enhancement and improvement of iModules' Constituent Engagement Management platform:
-* Daily code contribution
+Responsibilities include:
+* enhancement and improvement of iModules' Constituent Engagement Management platform
 
 Skills: C# · .NET · T-SQL · ASP.NET · JavaScript · VB.NET
 
@@ -84,8 +78,8 @@ Skills: C# · .NET · T-SQL
 
 In a high-volume, low-margin arena, BGI provides transportation logistics boxed-product software solutions.
 
-Responsibilities include enhancement and improvement of BGI's Delphi/Object Pascal based applications:
-* Daily code contribution
+Responsibilities include:
+* Enhancement and improvement of BGI's Delphi/Object Pascal based applications
 * Manage the distribution process and packaging of the software
 * Quality Assurance
 * All levels of customer support
